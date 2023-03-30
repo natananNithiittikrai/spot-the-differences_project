@@ -18,7 +18,7 @@ image_pairs = [(IMG_DIR+'toys1.png', IMG_DIR+'toys2.png')]
 The script displays the images with bounding boxes around the differences. If you want to save the output, you can modify the script to save the figures using ```plt.savefig``` instead of displaying them using ```plt.show```
 
 ## Video Demo
-[Insert video demo here]
+https://youtu.be/L0EnBfFQzms
 
 ## Requirements
 * Python 3.x
